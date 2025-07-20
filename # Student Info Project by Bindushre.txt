@@ -1,0 +1,13 @@
+# Student Info Project by Bindushree
+
+def student_details():
+    name = input("Enter your name: ")
+    age = input("Enter your age: ")
+    course = input("Enter your course: ")
+    
+    print("\n--- Student Info ---")
+    print("Name:", name)
+    print("Age:", age)
+    print("Course:", course)
+
+student_details()
