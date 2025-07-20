@@ -1,4 +1,4 @@
-# Student Info Project by Bindushree
+ Student Info.py
 
 def student_details():
     name = input("Enter your name: ")
